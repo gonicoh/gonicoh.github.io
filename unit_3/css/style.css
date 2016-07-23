@@ -1,0 +1,73 @@
+	body {
+
+		background: url("images/estadio.jpg");
+		background-size: auto;
+		font-style: normal;
+	    font-size: 24px;
+        text-align: left;
+	    color: #45637F
+
+	}
+
+
+	h1 {
+		color: #CC8F47;
+		text-transform: uppercase;
+		font-family: arial;
+		text-align: center;
+
+	}
+
+	p {
+		font-family: Arial;
+	   
+	}
+	 
+	 
+	 
+	 
+
+	 #slogan { 
+		font-weight: bold;
+		color: white; 
+		font-style: italic;
+		text-align: center;
+		font-size: 30px
+	 }
+
+	 div	{
+		width: auto;
+		height: auto;
+		border: 4px solid white;
+		margin: auto;
+
+
+	 }
+
+	 ul  {
+	 	text-align: left;
+	 	color: #45637F
+	 	font-weight:bold;
+	 }  
+	 
+	 #offer {
+	 	text-align: center;
+	 	font-weight: bold;
+	 	color: white;
+	 	font-style: italic;
+	 	text-transform: uppercase;
+
+	 }
+	 a {
+	 	text-decoration: none;
+
+	 }
+
+	 #email {
+	 	text-align: center;
+	 	font-size: 15px
+	 }
+
+	 .firstp {
+	 	text-transform: uppercase;
+	 }
