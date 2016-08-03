@@ -1,0 +1,166 @@
+	@import url(https://fonts.googleapis.com/css?family=Orbitron:400,700);
+	@import url(https://fonts.googleapis.com/css?family=Kite+One);
+
+	nav{
+		background-color:#E8C66A;
+		border: 1px black solid;
+		padding: 20px;
+
+	}
+
+	header {
+		background-color: #FFED74; 
+		border: 1px black solid;
+		padding: 20px;
+	}
+
+	article {
+		background-color: #E89C6C;
+		border: 1px black solid;
+		padding: 20px;
+	}
+
+	aside {
+		background-color: #FFC675;
+		border: 1px black solid;
+		padding: 20px;
+	}
+
+	h1 {
+		color: #CC8F47;
+		text-transform: uppercase;
+		font-family: 'Orbitron', sans-serif;
+		text-align: center;
+		font-size: 40px;
+
+	}
+
+	h2 {
+		font-family: 'Orbitron', sans-serif;
+
+	}
+    
+    body {
+
+		background: url("images/estadio.jpg");
+		background-size: auto;
+		background-attachment: fixed;
+		background-position: center center;
+		font-style: normal;
+	    font-size: 24px;
+        text-align: left;
+	    color: #45637F;
+	    line-height: 1.3em;
+	    margin: 2em;
+	    letter-spacing: normal;
+	    word-spacing: .2em;
+
+	}	
+
+
+	p {
+	   font-family: 'Kite One', sans-serif;
+	   font-variant: small-caps;
+	   font-size: 30px;
+	   font-weight: bolder;
+
+	}
+	 
+
+	 #slogan { 
+		font-weight: bold;
+		color: white; 
+		font-style: italic;
+		text-align: center;
+		font-size: 30px
+
+	 }
+
+	 ul  {
+	 	text-align: left;
+	 	color: #45637F
+	 	font-weight:bolder;
+	 	font-variant: small-caps;
+	 	font-family: 'Kite One', sans-serif;
+
+	 }  
+
+	 footer {
+	 	background-color:#FF957E; 
+	 	text-align: center;
+	 	border: 1px black solid;
+	 }
+	 
+	 #offer {
+	 	text-align: center;
+	 	font-weight: bold;
+	 	color: white;
+	 	font-style: italic;
+	 	text-transform: uppercase;
+	 	font-size: 30px;
+	 	border: 1px black solid;
+	 	float: left;
+	 	padding: 20px;
+	 	width: 30%;
+	 	background-color: blue;
+
+
+	 }
+
+
+	 a {
+	 	text-decoration: none;
+
+	 }
+
+
+	 #email {
+	 	text-align: center;
+	 	font-size: 15px
+
+	 }
+
+	 #logo {
+	 	text-align: left;
+	 }
+
+	 #nav {
+	 	text-align: center;
+	 	color: white;
+	 }
+
+	 #section_1{
+	 	background-color: #FFB7CF;
+	 	border: 1px black solid;
+	 	padding: 20px;
+	 }
+
+	 .left {
+	 	 background-color: violet;
+ 	     border: 1px black solid;
+         padding: 20px;
+         float: left;
+         width: 30%;
+	 }
+
+	 #right {
+	 	background-color: pink;
+        border: 1px black solid;
+        padding: 20px;
+        float: right;
+        width: 55%;
+	 }
+
+	 .clearfix:after {
+	 	visibility: hidden;
+	 	display: block;
+	 	font-size: 0;
+	 	content: " ";
+	 	clear: both;
+	 	height: 0;
+	 }
+
+	
+
+
+
