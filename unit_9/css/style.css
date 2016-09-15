@@ -101,8 +101,7 @@ p {
 .article {
 	border: none;
 	padding: 1em;
-	margin: 2em;
-	margin-left: 2em;
+	margin: 2em;	
 	width: 28%;
 	float: left;
 	letter-spacing: all;
